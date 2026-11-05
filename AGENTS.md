@@ -20,6 +20,9 @@ Prima di pianificare o rispondere su questo viaggio, leggere nell'ordine:
 - Il viaggio condiviso termina il 12 pomeriggio; i due giorni aggiuntivi dell'amica sono fuori ambito.
 
 ## File e aggiornamenti
+- Prima di iniziare qualsiasi modifica, sincronizzare sempre la repository con `git pull --ff-only` sul branch corrente e sul relativo upstream, dopo aver verificato branch e stato del worktree in sola lettura.
+- `git pull` richiede l'autorizzazione esplicita dell'utente per quella specifica esecuzione, secondo le regole Git globali: se manca, chiederla e attendere prima di modificare i file. Questa regola non costituisce autorizzazione permanente al pull.
+- Se ci sono modifiche locali, manca l'upstream o il pull fallisce/diverge, fermarsi e concordare come procedere; non eseguire automaticamente stash, reset, rebase o altre operazioni di recupero. Dopo il pull rileggere le istruzioni e i file interessati.
 - `costa-rica-4-11-novembre-2026.md` e `handoff-costa-rica-2026-nuova-chat.md` sono backup/storico: NON modificarli nel nuovo ciclo.
 - Aggiornare il nuovo Markdown e il registro preferenze/decisioni dopo ogni scelta. Non duplicare lunghe analisi superate nel piano operativo.
 - Mantenere mappe e PDF coerenti con il piano approvato. Nel dubbio mostrare chiaramente PROPOSTA, ALTERNATIVA o DA DECIDERE; non disegnare tutte le varianti come percorso confermato.
@@ -27,3 +30,10 @@ Prima di pianificare o rispondere su questo viaggio, leggere nell'ordine:
 - Dopo una modifica rigenerare entrambi i formati con gli strumenti locali e controllarne contenuto, link e impaginazione. Il workflow pubblica HTML e PDF dopo il push dell’utente; non dichiarare un deploy completato senza verifica. Si possono anche mandare come documenti su Telegram.
 - Nuove idee vanno in `idee-attivita.md`, senza inserirle automaticamente nel programma. Irazú e Braulio Carrillo sono richieste esplicite da valutare.
 - Le regole globali dell'utente su Git, infrastruttura e dipendenze continuano ad applicarsi. Non eseguire operazioni Git mutanti senza approvazione esplicita.
+
+## OpenClaw e portabilità Linux
+- L'utente aggiornerà il viaggio tramite OpenClaw via Telegram su un server Linux/Ubuntu. La generazione deve restare portabile, senza Swift, AppKit, PDFKit o strumenti macOS obbligatori.
+- Setup e comandi nel `README.md`: Python 3.11+, ambiente `.venv`, dipendenze fissate in `requirements.txt`. Non installare pacchetti globali. Docker/Podman non sono richiesti per l'uso ordinario.
+- Per aggiornamenti di viaggio modificare Markdown e `mappe/attivita.json`, poi eseguire `.venv/bin/python strumenti/aggiorna.py`: rigenera entrambi i formati. Controllare anche il PDF; può proseguire su più pagine quando cresce il contenuto.
+- Il workflow Pages rigenera HTML e PDF su Ubuntu dallo stesso JSON al push. Non affidarsi a un vecchio PDF già presente nel repository. Il workflow non committa i risultati.
+- OpenClaw deve rispettare le stesse regole di conferma delle spese e autorizzazione Git. Telegram è il canale di lavoro scelto dall'utente, non un'autorizzazione permanente a commit/push, acquisti o messaggi a terzi.

@@ -36,6 +36,8 @@ Aggiornamento: 5 novembre 2026, orari Costa Rica (America/Costa_Rica). Fonte pri
 
 8. Confermato dall’utente il giro gratuito del 5: SJO → Grecia → Sarchí → Zarcero → La Fortuna. Tappe scelte; orari indicativi. El Salto resta extra facoltativo, non tappa confermata.
 
+9. Aggiornamenti futuri tramite OpenClaw via Telegram su Linux/Ubuntu: generazione resa portabile in Python per HTML e PDF; nessun requisito Swift/macOS. Ambiente virtuale, dipendenze fissate e comando unico documentati. CI rigenera entrambi i formati. Restano valide le autorizzazioni specifiche per spese e Git.
+
 ## Scelte ancora aperte
 - Proposta di redistribuzione 6-7: Arenal + Mistico il 6; kayak + Don Olivo il 7, con soste gratuite facoltative. Da discutere, nessuna nuova prenotazione.
 - Destinazione dal check-out dell'8 fino all'11: ancora da scegliere. Le vecchie stime di 9-12 ore in bus verso i Caraibi non descrivono il nuovo viaggio in auto.

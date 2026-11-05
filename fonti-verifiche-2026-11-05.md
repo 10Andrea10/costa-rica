@@ -58,3 +58,15 @@ SHA-256 al primo controllo del nuovo ciclo:
 
 ## Conferma successiva dell’utente
 - Risposta alla scelta iterativa: «Tre paesi e La Fortuna». Confermato il giro del 5, mantenuti orari stimati ed El Salto facoltativo. Aggiornati registro, piano, lista idee, dati mappa e guida; HTML/PDF rigenerati. Nessuna nuova ricerca necessaria per registrare questa decisione. Giorni successivi e relative spese restano da approvare.
+
+## Portabilità Linux / OpenClaw - 5 novembre 2026
+Questa revisione supersede la generazione Swift/macOS e le precedenti indicazioni secondo cui la CI copiava soltanto il PDF già presente.
+- Richiesta utente: aggiornamenti futuri tramite OpenClaw via Telegram su server Linux di base; scelta implementata: Python per entrambi i formati, senza Docker obbligatorio.
+- Rimosso `strumenti/genera-pdf.swift`; aggiunti `strumenti/genera-pdf.py`, `strumenti/aggiorna.py` e `requirements.txt`. Percorsi risolti rispetto agli script, non alla directory corrente. PDF con font Vera inclusi in ReportLab e pagine di continuazione automatiche. Scrittura del PDF tramite file temporaneo e sostituzione solo a generazione completata.
+- Requisito Python 3.11+ (dovuto a Pillow 13). Ubuntu 24.04 con Python 3.12 compatibile con i requisiti pubblicati; non testato su un host Ubuntu reale in questa sessione.
+- Versioni stabili verificate sul registro ufficiale PyPI il 5 novembre: reportlab 5.1.0, pillow 13.0.0, charset-normalizer 3.5.2; tutte fissate, incluse dipendenze transitive obbligatorie. Per i controlli temporanei usato pypdf 6.21.4, non richiesto in produzione.
+- Fonti versioni e requisiti: https://pypi.org/pypi/reportlab/json ; https://pypi.org/pypi/pillow/json ; https://pypi.org/pypi/charset-normalizer/json ; https://pypi.org/pypi/pypdf/json
+- Test eseguito con Podman dopo l'avvio da parte dell'utente, su container Linux Python ufficiale `3.14.6-slim-bookworm`, digest `sha256:4c92ffcde4dd6f1ff72a24518f49fd4990b27134987dfa31a733badde66df9f8`, verificato tramite https://hub.docker.com/v2/repositories/library/python/tags/3.14.6-slim-bookworm . Repository montata in sola lettura, copia di test in /tmp del container, dipendenze in venv. Container rimossi con --rm, nessun volume nominato creato.
+- Generazione Linux eseguita anche da directory diversa dalla repository. HTML e PDF identici byte per byte alla generazione macOS. PDF finale 6 pagine: titoli e tutte le tappe estratti, 19 link Google Maps verificati contro il JSON. Dodici tappe aggiuntive solo nei dati di prova producono 8 pagine, tutte presenti senza perdita di contenuto.
+- Sei pagine renderizzate e ispezionate visivamente; corretti i caratteri freccia non presenti nel font sostituendoli nel PDF con simboli ASCII/NORD. La verifica grafica locale usa strumenti temporanei Apple soltanto come lettore, non come parte della generazione o del progetto.
+- Aggiornati README, guida mappe, AGENTS e preferenze per OpenClaw. CI crea venv, installa requirements e rigenera entrambi i formati prima del deploy. YAML e shell del workflow verificati, controllo HTML e git diff --check superati. Nessun nuovo workflow remoto eseguito, commit o push effettuato dall'assistente.

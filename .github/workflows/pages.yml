@@ -20,9 +20,13 @@ jobs:
         uses: actions/checkout@v7.0.1
         with:
           persist-credentials: false
-      - name: Rigenera HTML e prepara il sito
+      - name: Prepara Python isolato
         run: |
-          python3 strumenti/genera-mappa.py
+          python3 -m venv .venv
+          .venv/bin/python -m pip install -r requirements.txt
+      - name: Rigenera HTML e PDF e prepara il sito
+        run: |
+          .venv/bin/python strumenti/aggiorna.py
           mkdir -p _site
           cp mappe/costa-rica-giorno-per-giorno.html _site/index.html
           cp mappe/costa-rica-giorno-per-giorno.pdf _site/costa-rica-giorno-per-giorno.pdf

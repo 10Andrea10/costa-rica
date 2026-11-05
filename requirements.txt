@@ -1,0 +1,4 @@
+# Versioni stabili verificate su PyPI il 5 novembre 2026. Python >= 3.11.
+reportlab==5.1.0
+pillow==13.0.0
+charset-normalizer==3.5.2
