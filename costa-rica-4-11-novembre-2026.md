@@ -1,8 +1,8 @@
 # Costa Rica · 4–11 novembre 2026
 
-**Bozza iterativa · verifiche al 31 ottobre · orari locali Costa Rica**
+**Bozza iterativa · verifiche aggiornate al 1 novembre 2026 · orari locali Costa Rica**
 
-I giorni successivi al 5 sono proposte da discutere insieme: nessuna costa o attività è stata scelta definitivamente.
+Giornate 5–7 concordate come programma, senza nuove prenotazioni: Arenal + cascata; Mistico + Don Olivo; kayak + soste gratuite. Costa e programma 8–11 ancora da scegliere.
 
 ## Ripresa iterativa · 31 ottobre 2026
 
@@ -25,11 +25,85 @@ Filosofia: low cost, natura, mezzi pubblici, trekking, avventura e realtà local
 
 **Base confermata dall’utente:** Nice Place Hostel, Calle 468 Del Banco National, La Fortuna: check-in 5 novembre, check-out 8 novembre, tre notti. **Volo di uscita:** 12 novembre, SJO, ore 18:20; salvo modifiche, notte dell’11 nella Valle Centrale e arrivo in aeroporto entro le 15:20 del 12, o prima se richiesto dalla compagnia.
 
-## Scelta della costa
+## Auto oppure bus · confronto richiesto dall’utente il 1 novembre
 
-**Proposta principale: Monteverde + Pacifico centrale.** La scelta aggiunge foresta nebulosa, avventura e Manuel Antonio; comporta però due giornate di trasferimento impegnative. Le previsioni consultate il 31 ottobre indicano piogge possibili su entrambi i versanti e non giustificano una certezza meteorologica per l’8–11. IMN descrive rovesci e temporali pomeridiani sul Pacifico nel periodo fino al 4 novembre, non una previsione garantita per i giorni successivi. Ricontrollare il 5–6 e scegliere servizi cancellabili. [IMN](https://imn.ac.cr/en/web/imn/tendencia-semanal)
+**Decisione successiva dell’utente:** ignorare l’ipotesi auto, perché dispone soltanto di carta di debito e non di credito. Noleggio auto accantonato; non cercare preventivi o alternative di noleggio. Priorità nuovamente ai bus pubblici per i trasferimenti. Questa decisione chiude la domanda sul ritiro auto e prevale sull’analisi storica sotto; non è una dichiarazione universale sui requisiti di tutti i noleggiatori. La compatibilità della carta per l’eventuale scooter resta da verificare separatamente.
 
-**Alternativa reale: Caraibi**, indicata sotto, più fedele alle idee dell’amica: Pacuare, Cahuita, Manzanillo, fauna e cultura Bribri. Se questa costa piace di più, il piano è già pronto senza dover organizzare due viaggi in parallelo.
+### Analisi precedente, non più operativa
+
+L’utente chiede di analizzare sia Caraibi sia interno/Sarapiquí e considera il noleggio di un’auto a San José. **Nessun noleggio o cambio del mezzo è confermato.** Numero di persone e momento del ritiro erano stati richiesti, ma la domanda è chiusa dal successivo accantonamento del noleggio. Non inventare età conducente, paese di residenza, orari di ritiro o preventivi. Disponibile strumento Booking.com per ricerca auto; non chiamato perché date/orari/località del noleggio non ancora definiti.
+
+### Destinazioni e tempi da confrontare
+
+| Elemento | Caraibi: base Puerto Viejo/Cahuita | Interno: base Sarapiquí |
+|---|---|---|
+| Cosa aggiunge | Foresta costiera, Cahuita, Manzanillo, paesi e cultura caraibica; Jaguar Rescue facoltativo | Foresta tropicale di pianura, ricerca e osservazione fauna a La Selva, sentieri Tirimbina |
+| La Fortuna → destinazione in bus | Margine stimato 9–12 ore via Quesada/San José; orari domenicali e coincidenze non confermati | Margine preliminare 4–5 ore via Quesada; coincidenza e tariffe finali non confermate |
+| La Fortuna → destinazione in auto | Circa 5–6 ore pubblicate, aggiungere margini per soste/traffico; nessun risparmio enorme rispetto alle 6 ore nominali dello shuttle | Circa 2 ore pubblicate; alloggio esatto e condizioni possono allungare il tragitto |
+| Rientro verso San José | Circa 5 ore pubblicate in auto; MEPE 4,5 ore nominali bus, tenere margine | Circa 2 ore pubblicate in auto; fonte locale indica bus 2 ore via strada principale e 3,5 via Vara Blanca, più accesso alla fermata e attese |
+| Valore per questo viaggio | Più diversità dopo La Fortuna, ma due trasferimenti lunghi | Meno strada; maggiore ripetizione di foresta, ponti e fauna già presenti nel viaggio |
+
+I tempi in auto sono riferimenti di guida, non calcoli da navigazione aggiornati né durate garantite. [Sarapiquí, accesso e distanze](https://mytanfeet.com/cities-costa-rica/sarapiqui-costa-rica/comment-page-1/), [Puerto Viejo e accesso da San José](https://mytanfeet.com/activities/things-to-do-puerto-viejo-de-talamanca/). Sarapiquí è nell’interno; Puerto Viejo de Sarapiquí non è Puerto Viejo de Talamanca.
+
+### Due programmi comparabili 8–11, ancora da scegliere
+
+- **Caraibi:** 8 trasferimento e check-in, giro del paese se arrivo regolare; 9 Cahuita e camminata costiera secondo sentieri aperti; 10 Manzanillo/Punta Uva, con Jaguar Rescue facoltativo al mattino e percorso pomeridiano abbreviato; 11 rientro nella Valle Centrale. Nessuna spiaggia obbligatoria né acquisto rafting.
+- **Sarapiquí:** 8 trasferimento e passeggiata nei dintorni dell’alloggio se accessibile; 9 La Selva con guida e pomeriggio locale; 10 Tirimbina come camminata più lunga, saltando ponti come acquisto separato e cacao già previsti a La Fortuna; 11 rientro nella Valle Centrale e attività culturale da decidere. Le riserve non sono gratuite: non presentare Sarapiquí come una serie di trekking a costo zero.
+- **La Selva:** [OTS](https://tropicalstudies.org/portfolio/natural-history-visitors-la-selva/) pubblica per 15 dicembre 2025–14 dicembre 2026 la visita guidata breve di 3 ore a US$44 a persona tasse incluse; fasce 08:00 e 13:30, disponibilità da confermare. Lunga 6 ore US$55 tasse incluse, da confrontare col tetto EUR prima di proporla come compatibile. Nessuna visita prenotata.
+- **Tirimbina:** [sito ufficiale](https://www.tirimbina.org/) pubblica 7 km di sentieri, circa 4 ore, apertura 07:00–17:00, difficoltà facile-media. Tariffa attuale e possibilità di visita autonoma da verificare nel sistema del gestore: non inventare un prezzo né includerlo nel totale come già noto.
+
+### Tre modalità di noleggio da distinguere
+
+1. **Ritiro San José/SJO il 4, riconsegna 11 o 12:** evita di tornare nella capitale l’8 e può sostituire scooter e parte dei trasporti già pianificati. Più giorni di noleggio; durata addebitata dipende dagli orari e dalle regole del contratto. Orario di arrivo il 4 ancora ignoto, quindi non confermare partenza in auto per La Fortuna quella sera. [Guida percorso SJO–La Fortuna](https://mytanfeet.com/costa-rica-travel-tips/driving-san-jose-la-fortuna/comment-page-9/) distingue tempi senza traffico e raccomanda margine aggiuntivo.
+2. **Rientro a San José il giorno 8 per ritirare l’auto:** meno giorni di contratto ma aggiunge il rientro da La Fortuna prima di ripartire per costa o interno. Per l’obiettivo di ridurre ore in viaggio non è la soluzione preferita; nessuna catena di orari verificata. Valutare soltanto se il risparmio totale la giustifica.
+3. **Ritiro zona La Fortuna/Quesada l’8, riconsegna San José/SJO:** candidato logistico per evitare il ritorno alla capitale e pagare meno giorni. Adobe dichiara possibilità di ritiro per La Fortuna tramite ufficio Ciudad Quesada; trasferimento/consegna, disponibilità domenicale, costo e supplemento riconsegna altrove da quotare. Non è un servizio già disponibile o confermato. [Informazioni Adobe](https://www.adobecar.com/en/travel-costa-rica/la-fortuna-costa-rica/).
+
+**Calcolo economico da fare sui preventivi:** (noleggio + coperture necessarie + tasse + eventuale riconsegna altrove + carburante + pedaggi + parcheggi) diviso numero reale di persone. Confrontare con tutti i trasporti evitati, compreso eventuale scooter non ancora prenotato. Non sommare scooter e auto per le stesse giornate. La cauzione è una somma bloccata, non costo di viaggio: [Adobe](https://www.adobecar.com/en/about-adobe/terms-conditions/) pubblica US$1.000 su carta di credito fisica del titolare; requisiti e ammontare non sono universali per tutti i noleggiatori. Non dichiarare l’auto più economica dei bus senza totale verificato.
+
+**Conclusione provvisoria:** con priorità costo e meno ore in bus, approfondire Sarapiquí; con priorità diversità paesaggistica, Caraibi accettando la distanza. Auto può migliorare praticità e tempi rispetto ai bus ma non rende vicina la costa; il ritiro iniziale o in zona La Fortuna è logisticamente più sensato del rientro apposta a San José l’8. Nessuna scelta effettuata dall’assistente.
+
+## Confronto costa · aggiornamento 1 novembre 2026
+
+**Correzione dopo la risposta dell’utente:** priorità ai **bus pubblici e al low budget**; sei ore di spostamento sono già percepite come eccessive. Lo shuttle da US$70 non è la proposta base. Non confermare i Caraibi né acquistare trasferimenti finché non viene risolto il compromesso fra distanza, durata e interesse per la costa. La raccomandazione precedente per i Caraibi è sospesa alla luce di questa nuova priorità.
+
+**Percorso pubblico verso Puerto Viejo de Talamanca da approfondire:** La Fortuna → Ciudad Quesada → San José → Puerto Viejo/Cahuita, con cambio terminal in capitale. Le fonti locali riportano anche partenze dirette La Fortuna–San José, ma sono discordanti rispetto ad altre guide: nessuna corsa diretta o coincidenza dell’8 (domenica) è confermata. Per la sequenza via Quesada valutare circa **9–12 ore complessive come stima prudenziale**, non un orario garantito, includendo attese e trasferimento fra terminal. Gli esempi pubblicati da Centrocoasting sono vecchi e non vanno copiati come orari o prezzi attuali. [FortunaWelcome](https://www.fortunawelcome.com/es/buses-de-la-fortuna/), [Centrocoasting](https://centrocoasting.com/routes/la-fortuna-to-puerto-viejo/), [MEPE](https://www.mepecr.com/HorarioS_P.html). Tariffa completa attuale non verificata. Nessun totale economico inventato.
+
+**Variante via Sarapiquí/Guápiles:** esistono segmenti regionali, ma non è stata verificata una catena completa di coincidenze fino a Limón e Puerto Viejo per domenica 8; non presentarla come scorciatoia garantita. Puerto Viejo de Sarapiquí è una località interna distinta da Puerto Viejo de Talamanca, sulla costa.
+
+**Meta alternativa da discutere per ridurre distanza:** Sarapiquí come seconda base per natura, raggiungibile via Ciudad Quesada. [Rutear](https://rutear.com/rutas/grp_cr_guapilenos_ciudad_quesada_puerto_viejo_sarapiqui_406) riporta il servizio Quesada–Puerto Viejo de Sarapiquí tutti i giorni; tariffe secondarie circa ₡2.085–2.170 per questo segmento, non preventivo attuale. Margine preliminare 4–5 ore per La Fortuna–Sarapiquí con cambio, da verificare prima di raccomandare l’acquisto. Non è una costa, non è ancora scelta; attività low budget e rientro da verificare se interessa all’utente.
+
+**Decisione necessaria:** mantenere la costa caraibica accettando una giornata lunga in bus, oppure rivedere la destinazione per ridurre lo spostamento. Nessuna modifica delle giornate 5–7.
+
+### Confronto precedente, da rivedere secondo la correzione sopra
+
+**Nessuna costa scelta dall’utente.** Il confronto qui sotto era costruito con un trasferimento condiviso iniziale: non soddisfa ancora la priorità aggiornata ai bus pubblici. Conservato come riferimento, da correggere dopo la scelta sul compromesso distanza/tempo.
+
+| Giorno | Caraibi: base unica | Monteverde + Pacifico centrale |
+|---|---|---|
+| Domenica 8 | Trasferimento La Fortuna → Puerto Viejo/Cahuita; check-in e visita del paese nel pomeriggio se arrivo regolare | Bus–barca–bus La Fortuna → Monteverde; check-in Santa Elena e passeggiata |
+| Lunedì 9 | Cahuita: camminata nella foresta costiera e fauna, con percorso adattato ai sentieri aperti; rientro alla stessa base | Riserva Monteverde: trekking nella foresta nebulosa, per esempio Continental Divide di 4,1 km/~2,5 ore; pomeriggio dintorni Santa Elena, niente zipline o secondo cacao |
+| Martedì 10 | Jaguar Rescue Center al mattino come acquisto facoltativo e Manzanillo/Punta Uva abbreviati nel pomeriggio; alternativa economica giornata intera a Manzanillo | Trasferimento Monteverde → Puntarenas → Quepos: coincidenze non confermate, 7–9 ore solo margine stimato; costa vista soprattutto all’arrivo |
+| Mercoledì 11 | Rientro Puerto Viejo/Cahuita → San José in bus, lasciando margine; pernottamento Valle Centrale proposto | Manuel Antonio presto e bus Quepos → San José dopo la visita, fattibile solo con corsa utile confermata; pernottamento Valle Centrale proposto |
+
+**Tempo e cambi alloggio:** Caraibi: due giornate intere sul posto (9–10), parte dell’8 possibile, tre notti nella stessa base (8–10). Monteverde + Quepos: una giornata piena a Monteverde (9), parte dell’8 e una visita breve l’11; trasferimento il 10 e due basi prima del rientro. In entrambe le varianti è proposto dormire nella Valle Centrale l’11 per il volo SJO del 12 alle 18:20. Tutte le notti dall’8 restano da prenotare.
+
+### Trasporti e prezzi verificati come pubblicazione, non come disponibilità
+
+- **La Fortuna → Puerto Viejo/Cahuita:** [Caribe Shuttle](https://caribeshuttle.rezdy.com/44987/arenal-la-fortuna-to-puerto-viejo-cahuita-caribe-shuttle) pubblica da US$70 a persona, partenza giornaliera 06:00 e durata circa 6 ore, cambio van a Guápiles con sosta di 30 minuti. Un bagaglio grande e uno a mano inclusi; pranzo escluso. Prodotto su richiesta: posti, pickup Nice Place, drop-off e totale tasse/supplementi dell’8 non confermati. Il limite di circa €50 concordato è per attività: non rende automaticamente approvato questo transfer più caro. Prima di sceglierlo confrontare il risparmio di tempo con un percorso in bus pubblici, le cui coincidenze dell’8 non sono ancora verificate.
+- **Puerto Viejo → San José:** [MEPE](https://www.mepecr.com/HorarioS_P.html) pubblica 4,5 ore nominali su pagina con aggiornamento indicato 2023. Per pianificare riservare 5–7 ore come margine, non durata ufficiale; partenza e tariffa effettive dell’11 da confermare. [Puerto Viejo Satellite](https://www.puertoviejosatellite.com/es/bus-a-puerto-viejo/) riporta per la direttrice San José–Puerto Viejo ₡6.975 all’ultima verifica, riferimento indicativo non tariffa confermata del ritorno.
+- **La Fortuna → Monteverde:** [Monteverde Tours](https://monteverdetours.com/taxi-boat-taxi.html) pubblica 3–4 ore, partenza mattutina 08:00; minimo due partecipanti per servizio mattutino da verificare sul numero effettivo di persone. Prezzo mattutino US$35 + tasse, totale e pickup dell’8 da confermare. Nessun transfer privato proposto.
+- **Monteverde → Quepos:** [Transmonteverde](https://www.transmonteverde.com/CurrentRates) conferma la tratta verso Puntarenas e pubblica tariffe regolari da ₡2.685 per le rotte indicate; nessuna sequenza completa con coincidenza Puntarenas–Quepos verificata. Non presentare la giornata del 10 come collegamento già garantito.
+- **Quepos → San José:** orario e prezzo [TRACOPA](https://www.tracopacr.com/Rutas_Horarios) ancora da verificare prima di confermare visita e rientro l’11.
+
+### Costo e valore delle attività
+
+- **Caraibi:** [SINAC/ICT Cahuita](https://sinac.go.cr/ES/turismo/Brochure%20ICT/Parque%20Nacional%20Cahuita.pdf) descrive ingresso Playa Blanca con donazione volontaria; non definirlo ingresso gratuito senza contributo. Sentiero costiero, fauna e paesi permettono una proposta senza sequenza di tour costosi; per Manzanillo condizioni e modalità attuali di accesso restano da verificare. [Jaguar Rescue Center](https://www.jaguarrescue.foundation/SupportUs/Tours/PublicTour) pubblica US$29 per tour pubblico, 09:30/11:30, durata indicata 1,5 ore; apertura per il giorno scelto da confermare. Si visita un centro di recupero, non fauna libera né un’attività interamente coperta. Bici/bus locali e guida eventualmente aggiunta non ancora quotati.
+- **Monteverde/Pacifico:** [Riserva Monteverde](https://cloudforestmonteverde.com/visit-the-preserve/) conferma i circuiti autoguidati, ma tariffa finale del circuito del 9 non recuperata: da quotare e controllare contro il limite di circa €50. [SINAC Manuel Antonio](https://www.sinac.go.cr/es/ac/acopac/pnma/paginas/default.aspx) pubblica US$18,08 per adulto non residente; acquisto esclusivamente sul portale ufficiale e disponibilità dell’11 non verificata. Niente zipline né secondo tour di cacao.
+- **Nessun totale complessivo inventato:** tariffe alloggi, bus locali, alcuni ingressi e coincidenze non sono ancora verificate. Il transfer iniziale Caraibi costa più del bus–barca–bus, ma Monteverde + Quepos aggiunge un trasferimento e un cambio di base. Non è ancora dimostrato quale variante abbia il totale in denaro minore.
+
+**Meteo:** la ricerca dell’1 novembre sulla pagina [IMN subestagionale](https://imn.ac.cr/pronostico-subestacional) restituisce per il 9–15 novembre condizioni sotto la norma di pioggia sia sul Pacifico sia sul Caribe, con incertezza molto alta. L’apertura diretta della pagina ha poi restituito 410: informazione disponibile dal testo indicizzato, non previsione giornaliera verificata per l’8–11. Non usare il bollettino per garantire giornate asciutte o una costa migliore. Ricontrollare avvicinandosi alle date.
+
+**Pacuare:** la vecchia idea rafting + trasferimento da US$99 + IVA non è nel piano low budget corrente. Non proporla come acquisto urgente senza riaprire esplicitamente costo e interesse con l’utente.
 
 ## Cosa fare ora
 
@@ -37,7 +111,7 @@ Filosofia: low cost, natura, mezzi pubblici, trekking, avventura e realtà local
 2. **Attività La Fortuna:** canyoning Pure Trek da US$117 escluso dalla proposta corrente per costo. Per il 6 approfondire Mistico e Don Olivo, con totale finale e trasporto da confermare.
 3. **Se scegliamo Pacifico:** verificare subito disponibilità e condizioni per [Manuel Antonio](https://serviciosenlinea.sinac.go.cr/) l’11, ingresso del mattino, e per [Monteverde Cloud Forest](https://cloudforestmonteverde.com/visit-the-preserve/) il 9. Il primo si compra esclusivamente dal SINAC ed è chiuso il martedì; la riserva usa fasce a capacità limitata. Acquistare quando la scelta della costa è abbastanza certa, valutando la perdita economica se cambia il meteo. [SINAC](https://www.sinac.go.cr/es/ac/acopac/pnma/paginas/default.aspx)
 4. Verificare e prenotare il bus–barca–bus La Fortuna–Monteverde dell’8 e l’alloggio a Santa Elena dell’8 e 9. [MonteTours](https://montetours.com/jeep-boat-jeep-tour-from-la-fortuna-to-monteverde/) pubblica US$35–50 a persona: controllare tariffa e pickup effettivi.
-5. **Se scegliamo Caraibi:** prenotare appena possibile [Pacuare rafting con trasferimento](https://exploradoresoutdoors.com/tours/pacuare-1-day/) l’8. Prezzo pubblicato US$99 + IVA, classe III–IV, partenza da Arenal circa 05:20–05:40, pasti inclusi. Confermare per iscritto pickup, bagagli, arrivo a Puerto Viejo e trasporto alternativo in caso di cancellazione.
+5. **Se si mantengono i Caraibi:** verificare anzitutto i bus pubblici dell’8 (domenica), senza assumere shuttle. Pacuare da US$99 + IVA escluso dalla proposta corrente per budget.
 6. Bloccare una sistemazione cancellabile a San José o Alajuela per l’11. Verificare le condizioni prima di pagare; non assumere disponibilità effettiva per le date indicate.
 
 ## Mercoledì 4 · Prima dell’inizio del programma
@@ -173,9 +247,9 @@ Orari locali indicativi; tempi di trasferimento come margini proposti, non perco
 
 ## Variante Caraibi · sostituisce i giorni 8–11
 
-### Domenica 8 · Pacuare → Puerto Viejo
+### Domenica 8 · La Fortuna → Puerto Viejo, trasferimento da scegliere
 
-**Mattina:** pickup anticipato a La Fortuna e rafting sul Pacuare; l’operatore consente di iniziare ad Arenal e terminare ai Caraibi. **Pomeriggio:** pranzo e trasferimento verso Puerto Viejo; arrivo indicativo nel tardo pomeriggio. **Sera:** check-in e cena caraibica. Backup: navetta condivisa diretta con disponibilità e tempi confermati; chiedere prima cosa accade se il rafting è cancellato.
+**Mattina:** check-out e trasferimento da La Fortuna, condiviso o pubblico da scegliere. Candidato Caribe Shuttle 06:00, circa 6 ore, da US$70 a persona, su richiesta. **Pomeriggio:** check-in e passeggiata nel paese se arrivo regolare. **Sera:** cena caraibica. Nessun rafting nel programma corrente; disponibilità, totale e pickup non confermati.
 
 ### Lunedì 9 · Cahuita
 

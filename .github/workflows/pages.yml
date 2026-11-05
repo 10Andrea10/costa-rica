@@ -1,0 +1,49 @@
+name: Pubblica mappa Costa Rica
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - name: Rigenera HTML e prepara il sito
+        run: |
+          python3 strumenti/genera-mappa.py
+          mkdir -p _site
+          cp mappe/costa-rica-giorno-per-giorno.html _site/index.html
+          cp mappe/costa-rica-giorno-per-giorno.pdf _site/costa-rica-giorno-per-giorno.pdf
+          touch _site/.nojekyll
+      - name: Carica sito
+        uses: actions/upload-pages-artifact@v5.0.0
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Configura Pages
+        uses: actions/configure-pages@v6.0.0
+      - name: Pubblica
+        id: deployment
+        uses: actions/deploy-pages@v5.0.1

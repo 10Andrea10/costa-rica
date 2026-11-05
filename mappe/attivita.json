@@ -1,0 +1,362 @@
+{
+  "title": "Costa Rica in auto",
+  "updated": "5 novembre 2026",
+  "timezone": "America/Costa_Rica",
+  "subtitle": "Due persone · 5-12 novembre · bozza da decidere insieme",
+  "days": [
+    {
+      "id": "5",
+      "tab": "5 · Paesi gratis",
+      "date": "GIOVEDÌ 5 NOVEMBRE",
+      "title": "Grecia, Sarchí e Zarcero",
+      "status": "SCELTO · soste gratuite",
+      "color": "#126759",
+      "intro": "Giro scelto insieme: SJO → Grecia → Sarchí → Zarcero → La Fortuna. Niente cascate a pagamento oggi. Arrivo in ostello flessibile, anche dopo il buio.",
+      "budget": "US$0 di ingressi per le soste pubbliche. Pasti, carburante, pedaggi ed eventuali parcheggi separati.",
+      "note": "Orari stimati, non traffico live. El Salto è un extra solo con luce e accesso adatto. Se arrivate tardi: check-in, centro e cena; verificare orario limite del check-in.",
+      "stops": [
+        {
+          "time": "09:00",
+          "name": "Partenza dall’aeroporto SJO",
+          "short": "SJO",
+          "detail": "Auto e amica recuperate; obiettivo di partenza confermato.",
+          "query": "Aeropuerto Internacional Juan Santamaria SJO Costa Rica",
+          "coord": [
+            9.998,
+            -84.204
+          ],
+          "kind": "confirmed"
+        },
+        {
+          "time": "10:00-10:40 circa",
+          "name": "Grecia · parco e chiesa metallica",
+          "short": "Grecia",
+          "detail": "Passeggiata nel parco e intorno alla chiesa. Interno solo se aperto; nessun tour a pagamento.",
+          "query": "Parque Central de Grecia Costa Rica",
+          "coord": [
+            10.073,
+            -84.312
+          ],
+          "kind": "confirmed"
+        },
+        {
+          "time": "11:00-11:50 circa",
+          "name": "Sarchí · parco e grande carro dipinto",
+          "short": "Sarchí",
+          "detail": "Parco centrale, carro simbolo del paese e botteghe. Eventuali visite guidate ai laboratori da valutare a parte.",
+          "query": "Parque Central de Sarchi Costa Rica",
+          "coord": [
+            10.091,
+            -84.347
+          ],
+          "kind": "confirmed"
+        },
+        {
+          "time": "12:30-14:00 circa",
+          "name": "Zarcero · giardini e pranzo",
+          "short": "Zarcero",
+          "detail": "Parque Francisco Alvarado: archi e figure vegetali, piazza e chiesa. Pranzo in soda, a parte.",
+          "query": "Parque Francisco Alvarado Zarcero Costa Rica",
+          "coord": [
+            10.185,
+            -84.391
+          ],
+          "kind": "confirmed"
+        },
+        {
+          "time": "16:00-17:00 circa, flessibile",
+          "name": "Nice Place Hostel · La Fortuna",
+          "short": "La Fortuna",
+          "detail": "Prenotato 5-8. Check-in, poi centro e cena. Arrivo anche al buio; verificare limite check-in. Pin del paese.",
+          "query": "Nice Place Hostel Calle 468 La Fortuna Costa Rica",
+          "coord": [
+            10.471,
+            -84.645
+          ],
+          "kind": "booked"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "tab": "6 · Arenal",
+      "date": "VENERDÌ 6 NOVEMBRE",
+      "title": "Trekking Arenal e Mistico",
+      "status": "PROPOSTA · da approvare",
+      "color": "#126759",
+      "intro": "Arenal e Mistico raggruppati nell’area ovest. Programma e spese da riconfermare: il precedente limite di EUR 50 non autorizza gli ingressi.",
+      "budget": "Da US$44,95 a persona · US$89,90 in due, prima delle tasse Mistico. Arenal US$16,95 IVA inclusa; Mistico PM da US$28 + tasse.",
+      "note": "Chiedere conferma dei costi prima di fissare le attività. Slot Mistico e sentieri Arenal da verificare. Non è una salita al cratere.",
+      "stops": [
+        {
+          "time": "07:00-08:00",
+          "name": "Nice Place → ingresso SINAC Arenal",
+          "short": "La Fortuna",
+          "detail": "Colazione e trasferimento in auto; ingresso del parco nazionale, diverso da Arenal 1968.",
+          "query": "Nice Place Hostel La Fortuna Costa Rica",
+          "coord": [
+            10.471,
+            -84.645
+          ],
+          "kind": "booked"
+        },
+        {
+          "time": "08:00-11:00",
+          "name": "Parco Arenal · settore Volcán/Coladas",
+          "short": "Arenal",
+          "detail": "Coladas e Ceibo secondo mappa e apertura effettiva. Tre ore proposte con soste fotografiche.",
+          "query": "Parque Nacional Volcan Arenal sector Coladas entrada SINAC",
+          "coord": [
+            10.462,
+            -84.75
+          ],
+          "kind": "proposed"
+        },
+        {
+          "time": "11:00-12:30",
+          "name": "Trasferimento e pranzo",
+          "short": "Pranzo",
+          "detail": "Margine per mangiare e arrivare al turno Mistico. Locale da scegliere.",
+          "query": "La Fortuna Costa Rica",
+          "coord": null,
+          "kind": "proposed"
+        },
+        {
+          "time": "13:00-15:30 circa",
+          "name": "Mistico Hanging Bridges",
+          "short": "Mistico",
+          "detail": "3,2 km e sei ponti sospesi, visita autonoma. Turno e totale finale ancora da verificare.",
+          "query": "Mistico Arenal Hanging Bridges Park entrance Costa Rica",
+          "coord": [
+            10.488,
+            -84.755
+          ],
+          "kind": "proposed"
+        },
+        {
+          "time": "Solo se resta tempo",
+          "name": "Río Chollín · tratto pubblico",
+          "short": "Chollín",
+          "detail": "EXTRA gratuito; parcheggio eventualmente a pagamento. Solo con luce e condizioni del fiume adatte, altrimenti rientro.",
+          "query": "Free Natural Hot Springs River Tabacon Rio Chollin Costa Rica",
+          "coord": [
+            10.488,
+            -84.723
+          ],
+          "kind": "optional"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "tab": "7 · Kayak",
+      "date": "SABATO 7 NOVEMBRE",
+      "title": "Lago, paese e cacao",
+      "status": "PROPOSTA · orari da confermare",
+      "color": "#276a94",
+      "intro": "Kayak già desiderato; prezzo e operatore da approvare. Cacao da riconfermare dopo revisione del budget. Nessuna attività prenotata.",
+      "budget": "Kayak + cacao: US$65/persona, US$130 in due (cacao contanti); con carta per il cacao US$68,90/persona, US$137,80 in due. Eventuali tasse kayak da chiarire.",
+      "note": "Kayak solo con lago adatto. Politiche del gestore restrittive sui rimborsi meteo. Don Olivo è una fattoria, non backup garantito al coperto.",
+      "stops": [
+        {
+          "time": "07:30-09:00",
+          "name": "Nice Place → El Castillo",
+          "short": "La Fortuna",
+          "detail": "Colazione, guida e preparazione. Novanta minuti sono un margine proposto, non traffico verificato.",
+          "query": "Nice Place Hostel La Fortuna Costa Rica",
+          "coord": [
+            10.471,
+            -84.645
+          ],
+          "kind": "booked"
+        },
+        {
+          "time": "09:00-11:00",
+          "name": "Kayak Paradise & Tours · lago Arenal",
+          "short": "Kayak",
+          "detail": "Noleggio due ore; punto e turno da concordare. Pin orientativo della zona El Castillo/El Fósforo.",
+          "query": "Kayak Paradise and Tours El Castillo Costa Rica",
+          "coord": [
+            10.425,
+            -84.753
+          ],
+          "kind": "proposed"
+        },
+        {
+          "time": "11:00-13:30",
+          "name": "El Castillo e pranzo",
+          "short": "El Castillo",
+          "detail": "Giro del paese e panorami dalle aree pubbliche, poi ritorno verso La Fortuna.",
+          "query": "El Castillo La Fortuna Costa Rica",
+          "coord": [
+            10.427,
+            -84.751
+          ],
+          "kind": "proposed"
+        },
+        {
+          "time": "14:45 arrivo · 15:00-17:00",
+          "name": "Don Olivo Chocolate Tour",
+          "short": "Don Olivo",
+          "detail": "Turno pubblicato, posti del 7 da confermare. Circa due ore con degustazioni; US$30, sito indica US$33,90 con carta. Pin omesso: ingresso non verificato.",
+          "query": "Don Olivo Chocolate Tour La Fortuna Costa Rica",
+          "coord": null,
+          "kind": "proposed"
+        },
+        {
+          "time": "Sera",
+          "name": "Rientro e bagagli al Nice Place",
+          "short": "Rientro",
+          "detail": "Cena e preparazione al check-out dell'8. Destinazione successiva ancora aperta.",
+          "query": "Nice Place Hostel La Fortuna Costa Rica",
+          "coord": [
+            10.471,
+            -84.645
+          ],
+          "kind": "booked"
+        }
+      ]
+    },
+    {
+      "id": "8-11",
+      "tab": "8-11 · Aperti",
+      "date": "8-11 NOVEMBRE",
+      "title": "La seconda parte si sceglie insieme",
+      "status": "DA DECIDERE · nessuna rotta fissata",
+      "color": "#65736d",
+      "intro": "Check-out La Fortuna l'8. Con l'auto cambia il confronto costa/interno: nessuna variante precedente è automaticamente approvata.",
+      "budget": "Alloggi, spostamenti e ingressi ancora da definire. Nessun totale attendibile per questi quattro giorni.",
+      "note": "Idee Irazú e Braulio Carrillo nella scheda dedicata. Non mostrati come tappe già assegnate.",
+      "stops": [
+        {
+          "time": "Domenica 8",
+          "name": "Check-out Nice Place",
+          "short": "Check-out",
+          "detail": "Scegliere destinazione e pernottamento prima di partire.",
+          "query": "Nice Place Hostel La Fortuna Costa Rica",
+          "coord": [
+            10.471,
+            -84.645
+          ],
+          "kind": "booked"
+        },
+        {
+          "time": "Lunedì 9",
+          "name": "Giornata da costruire",
+          "short": "9 novembre",
+          "detail": "Nessun programma o alloggio approvato.",
+          "query": null,
+          "coord": null,
+          "kind": "open"
+        },
+        {
+          "time": "Martedì 10",
+          "name": "Giornata da costruire",
+          "short": "10 novembre",
+          "detail": "Nessun programma o alloggio approvato.",
+          "query": null,
+          "coord": null,
+          "kind": "open"
+        },
+        {
+          "time": "Mercoledì 11",
+          "name": "Rientro verso Valle Centrale da valutare",
+          "short": "11 novembre",
+          "detail": "Irazú candidato mattutino soltanto se compatibile con la rotta. Notte dell'11 non prenotata.",
+          "query": null,
+          "coord": null,
+          "kind": "open"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "tab": "12 · Rientro",
+      "date": "GIOVEDÌ 12 NOVEMBRE",
+      "title": "Riconsegna auto e volo SJO",
+      "status": "VOLO CONFERMATO · logistica aperta",
+      "color": "#276a94",
+      "intro": "L'utente riconsegna l'auto in aeroporto il 12. Il programma dell'amica dal pomeriggio è fuori ambito.",
+      "budget": "Carburante, eventuali pedaggi/parcheggi e condizioni riconsegna secondo contratto. Nessuna nuova escursione prevista.",
+      "note": "Verificare sede di restituzione e navetta al terminal. L'orario contrattuale non è stato comunicato; l'obiettivo terminal 15:20 è un margine di piano.",
+      "stops": [
+        {
+          "time": "Mattina",
+          "name": "Pernottamento e trasferimento da definire",
+          "short": "Mattina",
+          "detail": "Attività breve eventualmente da scegliere, senza escursione lontana obbligatoria.",
+          "query": null,
+          "coord": null,
+          "kind": "open"
+        },
+        {
+          "time": "Prima del terminal",
+          "name": "Riconsegna auto · sede da verificare",
+          "short": "Auto",
+          "detail": "Seguire il contratto dell'agenzia. Il pin è solo SJO, non la sede di riconsegna.",
+          "query": null,
+          "coord": null,
+          "kind": "confirmed"
+        },
+        {
+          "time": "Entro 15:20, obiettivo",
+          "name": "Terminal partenze SJO",
+          "short": "SJO",
+          "detail": "O prima, se richiesto dalla compagnia. Non è l'orario di riconsegna del contratto.",
+          "query": "Aeropuerto Internacional Juan Santamaria Departures SJO",
+          "coord": [
+            9.998,
+            -84.204
+          ],
+          "kind": "proposed"
+        },
+        {
+          "time": "18:20",
+          "name": "Volo dell'utente",
+          "short": "Volo",
+          "detail": "Dato confermato nella pianificazione precedente. Nessuna modifica comunicata.",
+          "query": null,
+          "coord": null,
+          "kind": "confirmed"
+        }
+      ]
+    },
+    {
+      "id": "idee",
+      "tab": "Idee extra",
+      "date": "CANDIDATI NON ASSEGNATI",
+      "title": "Irazú e Braulio Carrillo",
+      "status": "LISTA IDEE · non è un itinerario",
+      "color": "#9b582b",
+      "intro": "Richieste dell'utente da inserire se valgono il tempo e il percorso. Non si visitano entrambe automaticamente e non sono approvate per oggi.",
+      "budget": "Irazú US$16,95/persona + CRC 2.500/auto; Braulio US$13,56/persona. Per due: US$33,90 + parcheggio / US$27,12 + costi da verificare.",
+      "note": "Irazú meglio al mattino vicino Cartago; Braulio Quebrada González sulla Ruta 32. Non confondere i settori Cráteres/Prusia e Quebrada González/Barva.",
+      "stops": [
+        {
+          "time": "Mattina da scegliere",
+          "name": "Volcán Irazú · settore Cráteres",
+          "short": "Irazú",
+          "detail": "Online SINAC; 08-16, ultimo ingresso 14. Paesaggio e visibilità dipendono dalle nubi. Oggi è una deviazione poco coerente con La Fortuna.",
+          "query": "Parque Nacional Volcan Irazu sector Crateres entrance Costa Rica",
+          "coord": [
+            9.978,
+            -83.852
+          ],
+          "kind": "idea"
+        },
+        {
+          "time": "Su rotta compatibile",
+          "name": "Braulio Carrillo · Quebrada González",
+          "short": "Braulio",
+          "detail": "Foresta e sentieri; 08-15:30. Verificare apertura e accesso del giorno. Pin orientativo del settore, non traccia dei sentieri.",
+          "query": "Parque Nacional Braulio Carrillo Sector Quebrada Gonzalez entrance",
+          "coord": [
+            10.16,
+            -83.939
+          ],
+          "kind": "idea"
+        }
+      ]
+    }
+  ]
+}
